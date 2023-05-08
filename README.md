@@ -93,7 +93,7 @@
   <tr>
     <td style="width:30%; padding:10px;">
       <a href="https://open.spotify.com/playlist/3YjJ0kFHh8t5QPrzOO2YBO" align="center">
-        <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=31dxbzgwof3cxamijzuuiilzjaa4&cover_image=true&theme=default&show_offline=true" style="max-height: 300px; width: 100%;">
+        <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=31dxbzgwof3cxamijzuuiilzjaa4&cover_image=true&theme=default&show_offline=false" style="max-height: 300px; width: 100%;">
       </a>
     </td>
     <td style="width:70%; padding:10px;">
