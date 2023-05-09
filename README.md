@@ -48,8 +48,8 @@
 <p align="center">
 <a href="https://stabgan.com" target="_blank"  >
     <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/stabgan/stabgan/blob/output/github-contribution-grid-snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/stabgan/stabgan/blob/master/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stabgan/stabgan/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stabgan/stabgan/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 </p>
