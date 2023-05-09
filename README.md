@@ -47,7 +47,11 @@
 
 <p align="center">
 <a href="https://stabgan.com" target="_blank"  >
-    <img align="center" src="github-contribution-grid-snake.svg"/></a>
+    <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/stabgan/stabgan/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/stabgan/stabgan/blob/master/github-contribution-grid-snake-dark.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 </p>
 
 #
