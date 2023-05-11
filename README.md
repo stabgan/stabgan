@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://stabgan.com" target="_blank"  >
-    <img src="https://readme-typing-svg.demolab.com/?lines=こんにちは👋;🇸Hola👋;Bonjour👋;🇪Hallo👋;Ciao👋;你好👋;مرحبا👋;Здравствуйте👋;Habari👋;Aloha🌺&font=Poppins&center=true&width=1000&height=200&color=f75c7e&vCenter=true&pause=100&size=100" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=こんにちは👋;Hola👋;Bonjour👋;Hallo👋;Ciao👋;你好👋;مرحبا👋;Здравствуйте👋;Habari👋;Aloha🌺&font=Poppins&center=true&width=1000&height=200&color=f75c7e&vCenter=true&pause=100&size=100" /></a>
 </p>
 
 <!--- stats -->
