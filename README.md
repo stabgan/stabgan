@@ -9,8 +9,8 @@
 
 <!--- stats -->
 <p align="center">
-  <img src="https://gpvc.arturio.dev/stabgan" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
-  <!-- <img alt = "profile views" src="https://komarev.com/ghpvc/?username=stabgan&style=flat&color=brightgreen"> •    -->
+<!--   <img src="https://gpvc.arturio.dev/stabgan" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •   -->
+  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=stabgan&style=flat&color=brightgreen"> •   
   <!-- <a href="https://user-badge.committers.top/india_private/stabgan"><img src="https://user-badge.committers.top/india_private/stabgan.svg"></a> • -->
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/stabgan?label=Followers&style=social"> •
   <img src="https://img.shields.io/github/stars/stabgan?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
