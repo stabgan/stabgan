@@ -1,112 +1,189 @@
-<a href="https://stabgan.bio.link" target="_blank"><img src="STABGAN.png" alt="QR Code" width="100%"></a>
-
-<!--- Moving text -->
-
-<p align="center">
-  <a href="https://stabgan.com" target="_blank"  >
-    <img src="https://readme-typing-svg.demolab.com/?lines=こんにちは👋;Hola👋;Bonjour👋;Hallo👋;Ciao👋;你好👋;مرحبا👋;Здравствуйте👋;Habari👋;Aloha🌺&font=Poppins&center=true&width=1000&height=200&color=f75c7e&vCenter=true&pause=100&size=100" /></a>
-</p>
-
-<!--- stats -->
-<p align="center">
-<!--   <img src="https://gpvc.arturio.dev/stabgan" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •   -->
-  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=stabgan&style=flat&color=brightgreen"> •   
-  <!-- <a href="https://user-badge.committers.top/india_private/stabgan"><img src="https://user-badge.committers.top/india_private/stabgan.svg"></a> • -->
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/stabgan?label=Followers&style=social"> •
-  <img src="https://img.shields.io/github/stars/stabgan?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
-</p>
-<!--- Quote -->
-
 <div align="center">
 
-| <a href="https://stabgan.com" target="_blank"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes" width="100%"></a> | <div style="text-align:center; color:white"><a href="https://stabgan.bio.link" target="_blank"><img src="qr.png" alt="QR Code" width="100%"><br><span style="font-family: 'Poppins', sans-serif; font-size: 10px; color: yellow">Social Links</span></a></div> |
-|---|---|
-
-</div>
-<h2 align="center" style="font-family: 'Poppins', sans-serif; font-weight: bold;">Main Skills</h2>
-
-
-<div align="center">
-  <div style="background-color: #f2f2f2; border-radius: 20px; padding: 20px; display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python icon" style="width: 10%; max-width: 80px; margin: 10px;">
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript icon" style="width: 10%; max-width: 80px; margin: 10px;">
-    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++ icon" style="width: 10%; max-width: 80px; margin: 10px;">
-    <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS icon" style="width: 10%; max-width: 80px; margin: 10px;">
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub icon" style="width: 10%; max-width: 80px; margin: 10px;">
-    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java icon" style="width: 10%; max-width: 80px; margin: 10px;">
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL icon" style="width: 10%; max-width: 80px; margin: 10px;">
-  </div>
-</div>
-
-
-
-
-
-
-
-
-<p align="center">
-<a href="https://stabgan.com" target="_blank"  >
-    <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stabgan/stabgan/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stabgan/stabgan/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-</p>
-
-#
-
-<!--- stats & Trophy (start) -->
-<h2 align="center" style="font-family: 'Poppins', sans-serif; font-weight: bold;">GitHub Trophies</h2>
-<br>
-<div align="center">
-  <a href="https://stabgan.com" target="_blank"   title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=stabgan&theme=matrix&row=1&column=-1&margin-h=15&margin-w=5&no-bg=false" alt="TROPHY" />
-    </a>
-</div>
-
-
-#
-
-<h2 align="center" style="font-family: 'Poppins', sans-serif; font-weight: bold;">GitHub Stats</h2>
-<br/>
-
-<p align="center">
-<a href="https://stabgan.com" target="_blank"  >
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stabgan&theme=dark&hide_border=true"/></a>
-</p>
-
-
-<a href= "https://stabgan.com" align="center">
-<table width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=stabgan&show_icons=true&hide_border=true&theme=transparent&count_private=true&include_all_commits=true&hide=contribs&custom_title=High+Level+Overview"/>
-    </td>
-    <td align="center" width="50%">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stabgan&layout=compact&theme=transparent&hide_border=true&langs_count=10&custom_title=Most+Used+Languages"/>
-    </td>
-  </tr>
-</table>
+<!-- Dynamic Typing SVG -->
+<a href="https://stabgan.com">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Senior+Data+Scientist+%7C+Applied+ML+Engineer;MTech+AI+%40+IIT+Madras+%7C+5+Research+Papers;Production+ML+%7C+Clinical+AI+%7C+LLM+Fine-tuning;Embedding+Fine-tuning+%7C+DSPy+%7C+Agentic+Workflows&font=Inter&center=true&width=800&height=80&color=58a6ff&vCenter=true&pause=1000&size=24&duration=3000" />
 </a>
 
+<br/>
 
-#
+# Hey, I'm Kaustabh Ganguly 👋
 
-<table style="width:100%">
+**Senior Data Scientist & Applied ML Engineer**
+
+I build production ML systems, fine-tune LLMs for clinical NLP, and ship data platforms that actually work at scale.
+Currently exploring the intersection of clinical AI, embedding fine-tuning, and agentic workflows.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-11K+_followers-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stabgan)
+[![Website](https://img.shields.io/badge/Portfolio-stabgan.com-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://stabgan.com)
+[![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-stabgan-FFD21E?style=flat)](https://huggingface.co/stabgan)
+[![Email](https://img.shields.io/badge/Email-kaustabhganguly@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kaustabhganguly@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=stabgan&style=flat&color=58a6ff&label=Profile+Views)](https://github.com/stabgan)
+
+</div>
+
+---
+
+## 🧠 About Me
+
+```python
+class Kaustabh:
+    role       = "Senior Data Scientist | Applied ML Engineer"
+    company    = "Gracenote (Nielsen)"
+    education  = "MTech Industrial AI @ IIT Madras (GPA: 8.66/10)"
+    location   = "Kolkata, India"
+    
+    expertise  = [
+        "Production ML Systems (AUROC 0.95 in prod)",
+        "Clinical AI & Survival Analysis (MIMIC-IV)",
+        "LLM Fine-tuning & Prompt Optimization",
+        "Data Platform Engineering at Scale",
+    ]
+    
+    currently_exploring = [
+        "Embedding Fine-tuning for Domain Adaptation",
+        "Neural Machine Translation with DSPy",
+        "Agentic Workflows (LangChain / LangGraph)",
+        "LLM-as-a-Judge & Golden Dataset Curation",
+        "AWS Bedrock Proxy & Harness Engineering",
+    ]
+    
+    fun_fact = "Also a lead guitarist 🎸 and video game enthusiast 🎮"
+```
+
+
+---
+
+## 🏆 Highlights
+
+<table>
   <tr>
-    <td style="width:30%; padding:10px;">
-      <a href="https://open.spotify.com/playlist/3YjJ0kFHh8t5QPrzOO2YBO" align="center">
-        <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=31dxbzgwof3cxamijzuuiilzjaa4&cover_image=true&theme=default&show_offline=false" style="max-height: 300px; width: 100%;">
-      </a>
+    <td align="center"><strong>10+</strong><br/>HuggingFace Datasets & Models</td>
+    <td align="center"><strong>AUROC 0.95</strong><br/>Production ML @ J&J</td>
+    <td align="center"><strong>5</strong><br/>Peer-Reviewed Papers</td>
+    <td align="center"><strong>100+</strong><br/>Prod Releases (<2% rework)</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>11K+</strong><br/>LinkedIn Followers</td>
+    <td align="center"><strong>25+</strong><br/>Engineers Mentored</td>
+    <td align="center"><strong>8</strong><br/>Fine-tuned LLM Models</td>
+    <td align="center"><strong>Top 1200</strong><br/>TCS CodeVita / 100K+</td>
+  </tr>
+</table>
+
+---
+
+## 💼 Experience
+
+| Role | Company | Period | Key Impact |
+|------|---------|--------|------------|
+| **Senior Data Scientist** | Gracenote (Nielsen) | Current | Embedding fine-tuning, neural translation, DSPy prompt optimization, LLM-as-a-Judge, AWS Bedrock |
+| **Data Architect & Data Scientist** | TCS → J&J MedTech | 2023–2025 | AUROC 0.95 production models, 87% fewer data incidents, zero-failure orchestration for 8+ months |
+| **Software Engineer, Data Platform** | TCS → J&J COE R&D | 2022–2023 | Automated onboarding for ~500 users (days → minutes), 10K+ lines Redshift SQL with zero defects |
+| **Data Engineer → Lead** | TCS → J&J Vision | 2020–2022 | 40 ETL jobs/day across 3 countries, ~50 GB/day, 3x faster Redshift views, 100+ prod releases |
+| **ML Intern** | Param.ai | 2018 | Custom word2vec for resume-JD matching, won best idea at company hackathon |
+
+---
+
+## 🔬 Research & Publications
+
+Published across **Springer**, **IEEE**, **Elsevier**, and **NASA-indexed journals** during undergrad:
+
+| Paper | Venue |
+|-------|-------|
+| [FemmeBand: IoT Smart Security Band using EMG Sensors](https://link.springer.com/article/10.1007/s11334-022-00490-2) | Springer — Innovations in Systems & Software Engineering |
+| [HeartHealth: Multi-Attribute Heart Monitoring using Fuzzy-TOPSIS](https://ieeexplore.ieee.org/abstract/document/9455848) | IEEE — Devices for Integrated Circuit (DevIC) |
+| [Predicting Bradycardia & AFib using Fuzzy Logic + Arduino IoT](https://www.sciencedirect.com/science/article/pii/S2590093521000023) | Elsevier — Medicine in Novel Technology and Devices |
+| [ValveCare: Fuzzy-Based Heart Disease Prediction with IoT](https://link.springer.com/chapter/10.1007/978-3-030-75529-4_18) | Springer International Publishing |
+| [SafeBand: IoT Smart Security Band with Instant SOS](https://link.springer.com/chapter/10.1007/978-981-16-5207-3_12) | Springer — Proc. of Intl. Conf. on Advanced Computing |
+
+
+---
+
+## 🎓 Education
+
+<table>
+  <tr>
+    <td align="center" width="80"><img src="https://upload.wikimedia.org/wikipedia/en/6/69/IIT_Madras_Logo.svg" width="60"/></td>
+    <td>
+      <strong>Indian Institute of Technology Madras</strong><br/>
+      MTech, Industrial Artificial Intelligence — GPA: 8.66/10<br/>
+      <em>Thesis: Early decision support for mortality in sepsis-associated AKI using MIMIC-IV</em><br/>
+      <sub>LightGBM + Optuna + Isotonic Calibration | AUROC 0.749 | CoxPH & DeepSurv (C-index 0.69) | SHAP | TRIPOD-aligned</sub>
     </td>
-    <td style="width:70%; padding:10px;">
-      <a href="https://stabgan.com" align="center">
-        <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=www.stabgan.com&width=800&height=420" style="max-height: 100%; width: 100%;">
-      </a>
+  </tr>
+  <tr>
+    <td align="center" width="80">🎓</td>
+    <td>
+      <strong>Kalyani Government Engineering College</strong><br/>
+      BTech, Information Technology — CGPA: 8.15/10<br/>
+      <sub>5 peer-reviewed papers | Swami Vivekananda Merit Scholar | TCS CodeVita Top 1200</sub>
     </td>
   </tr>
 </table>
 
+---
 
+## 🛠️ Tech Stack
+
+<details open>
+<summary><strong>Languages & Core</strong></summary>
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+
+</details>
+
+<details open>
+<summary><strong>ML / AI / LLMs</strong></summary>
+<br/>
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=flat)
+![LangGraph](https://img.shields.io/badge/🦜_LangGraph-1C3C3C?style=flat)
+![DSPy](https://img.shields.io/badge/DSPy-4B0082?style=flat)
+![SHAP](https://img.shields.io/badge/SHAP-FF6F00?style=flat)
+![Unsloth](https://img.shields.io/badge/Unsloth-000000?style=flat)
+![W&B](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat&logo=weightsandbiases&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat)
+
+</details>
+
+<details open>
+<summary><strong>Data & Cloud</strong></summary>
+<br/>
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Amazon Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=flat&logo=amazonredshift&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+</details>
+
+<details>
+<summary><strong>Specialized Skills</strong></summary>
+<br/>
+
+`Embedding Fine-tuning` `Neural Machine Translation` `DSPy Prompt Optimization` `LLM-as-a-Judge`
+`Golden Dataset Curation` `AWS Bedrock Proxy` `Harness Engineering` `Survival Analysis (CoxPH, DeepSurv)`
+`Calibration (Isotonic/Platt)` `ETL/ELT Orchestration` `Control-M` `CI/CD` `SDET`
+`MIMIC-IV` `UMLS/RxNorm/SNOMED CT/ATC` `TRIPOD Reporting` `Decision Curve Analysis`
+
+</details>
 
