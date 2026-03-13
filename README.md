@@ -2,14 +2,14 @@
 
 <!-- Dynamic Typing SVG -->
 <a href="https://stabgan.com">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Senior+Data+Scientist+%7C+Applied+ML+Engineer;MTech+AI+%40+IIT+Madras+%7C+5+Research+Papers;Production+ML+%7C+Clinical+AI+%7C+LLM+Fine-tuning;Embedding+Fine-tuning+%7C+DSPy+%7C+Agentic+Workflows&font=Inter&center=true&width=800&height=80&color=58a6ff&vCenter=true&pause=1000&size=24&duration=3000" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Senior+AI/ML+Engineer+%40+Gracenote+(Nielsen);MTech+AI+%40+IIT+Madras+%7C+5+Research+Papers;Production+ML+%7C+Clinical+AI+%7C+LLM+Fine-tuning;Embedding+Fine-tuning+%7C+DSPy+%7C+Agentic+Workflows&font=Inter&center=true&width=800&height=80&color=58a6ff&vCenter=true&pause=1000&size=24&duration=3000" />
 </a>
 
 <br/>
 
 # Hey, I'm Kaustabh Ganguly 👋
 
-**Senior Data Scientist & Applied ML Engineer**
+**Senior AI/ML Engineer @ Gracenote (Nielsen) | MTech AI @ IIT Madras**
 
 I build production ML systems, fine-tune LLMs for clinical NLP, and ship data platforms that actually work at scale.
 Currently exploring the intersection of clinical AI, embedding fine-tuning, and agentic workflows.
@@ -17,6 +17,7 @@ Currently exploring the intersection of clinical AI, embedding fine-tuning, and 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-11K+_followers-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stabgan)
 [![Website](https://img.shields.io/badge/Portfolio-stabgan.com-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://stabgan.com)
 [![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-stabgan-FFD21E?style=flat)](https://huggingface.co/stabgan)
+[![Twitter](https://img.shields.io/badge/X-@stabgan-000000?style=flat&logo=x&logoColor=white)](https://x.com/stabgan)
 [![Email](https://img.shields.io/badge/Email-kaustabhganguly@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kaustabhganguly@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=stabgan&style=flat&color=58a6ff&label=Profile+Views)](https://github.com/stabgan)
 
@@ -28,10 +29,10 @@ Currently exploring the intersection of clinical AI, embedding fine-tuning, and 
 
 ```python
 class Kaustabh:
-    role       = "Senior Data Scientist | Applied ML Engineer"
-    company    = "Gracenote (Nielsen)"
+    role       = "Senior AI/ML Engineer"
+    company    = "Gracenote, a Nielsen Company"
     education  = "MTech Industrial AI @ IIT Madras (GPA: 8.66/10)"
-    location   = "Kolkata, India"
+    location   = "Bengaluru, India"
     
     expertise  = [
         "Production ML Systems (AUROC 0.95 in prod)",
@@ -77,7 +78,7 @@ class Kaustabh:
 
 | Role | Company | Period | Key Impact |
 |------|---------|--------|------------|
-| **Senior Data Scientist** | Gracenote (Nielsen) | Current | Embedding fine-tuning, neural translation, DSPy prompt optimization, LLM-as-a-Judge, AWS Bedrock |
+| **Senior AI/ML Engineer** | Gracenote, a Nielsen Company | Current | Embedding fine-tuning, neural translation, DSPy prompt optimization, LLM-as-a-Judge, AWS Bedrock |
 | **Data Architect & Data Scientist** | TCS → J&J MedTech | 2023–2025 | AUROC 0.95 production models, 87% fewer data incidents, zero-failure orchestration for 8+ months |
 | **Software Engineer, Data Platform** | TCS → J&J COE R&D | 2022–2023 | Automated onboarding for ~500 users (days → minutes), 10K+ lines Redshift SQL with zero defects |
 | **Data Engineer → Lead** | TCS → J&J Vision | 2020–2022 | 40 ETL jobs/day across 3 countries, ~50 GB/day, 3x faster Redshift views, 100+ prod releases |
