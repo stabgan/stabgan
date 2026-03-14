@@ -103,7 +103,7 @@ Currently: embedding fine-tuning, neural machine translation with DSPy, prompt o
 
 <div align="center">
 
-*Lead guitarist 🎸 · Climate ML volunteer at Liquid Trees 🌱 · Gamer 🎮*
+*Lead guitarist 🎸 · Gamer 🎮*
 
 ```
 $ echo "let's build something together"
