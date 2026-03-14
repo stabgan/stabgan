@@ -15,6 +15,7 @@ MTech Industrial AI · IIT Madras
 [![site](https://img.shields.io/badge/stabgan.com-141413?style=flat&logo=google-chrome&logoColor=white)](https://stabgan.com)
 [![linkedin](https://img.shields.io/badge/linkedin-141413?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stabgan)
 [![huggingface](https://img.shields.io/badge/🤗_huggingface-141413?style=flat)](https://huggingface.co/stabgan)
+[![scholar](https://img.shields.io/badge/google_scholar-141413?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=3AG6T5QAAAAJ)
 [![email](https://img.shields.io/badge/email-141413?style=flat&logo=gmail&logoColor=white)](mailto:kaustabhganguly@gmail.com)
 
 </div>
@@ -57,7 +58,9 @@ Currently: embedding fine-tuning, neural machine translation with DSPy, prompt o
 
 | | |
 |:--|:--|
-| [openrouter-mcp-multimodal](https://github.com/stabgan/openrouter-mcp-multimodal) | MCP server for OpenRouter — text chat + image analysis via 200+ models |
+| [openrouter-mcp-multimodal](https://github.com/stabgan/openrouter-mcp-multimodal) | MCP server for OpenRouter — text chat + image analysis via 200+ models `17⭐` |
+| [Recurrent-Neural-Networks](https://github.com/stabgan/Recurrent-Neural-Networks-to-predict-Google-Stock-Price) | Google stock price prediction using LSTMs `15⭐` |
+| [GANs-using-pyTorch](https://github.com/stabgan/GANs-using-pyTorch-from-Scratch) | Generative adversarial network from scratch in PyTorch `6⭐` |
 | [saaki](https://github.com/stabgan/saaki) | ICU mortality prediction for sepsis-AKI patients · MIMIC-IV · AUROC 0.80 |
 | [biogemma](https://github.com/stabgan/biogemma) | Gemma 3 1B fine-tuned on medical corpus for clinical NLP |
 | [icd10cm](https://github.com/stabgan/icd10cm) | ICD-10-CM browser — 70K+ diagnosis codes · MongoDB + Node.js |
@@ -81,16 +84,18 @@ Currently: embedding fine-tuning, neural machine translation with DSPy, prompt o
 
 #### tools i use
 
-`Python` `PyTorch` `Transformers` `LangChain` `LangGraph` `DSPy` `scikit-learn` `SHAP`
-`AWS` `Bedrock` `Redshift` `PostgreSQL` `Docker` `Terraform`
-`SQL` `Java` `Go` `Bash` `R`
+**ml & ai** · `PyTorch` `Transformers` `scikit-learn` `LangChain` `LangGraph` `DSPy` `SHAP` `W&B`
+
+**data & cloud** · `AWS` `Bedrock` `Redshift` `PostgreSQL` `Snowflake` `Docker` `Terraform`
+
+**languages** · `Python` `SQL` `Java` `Go` `Bash` `R`
 
 ---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=stabgan&show_icons=true&hide_border=true&bg_color=FAF9F5&title_color=141413&text_color=5C5B57&icon_color=C6613F&count_private=true&include_all_commits=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=stabgan&hide_border=true&background=FAF9F5&ring=C6613F&fire=C6613F&currStreakLabel=141413&sideLabels=5C5B57&dates=9C9A95&currStreakNum=141413&sideNums=141413" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=stabgan&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&icon_color=C6613F&count_private=true&hide_rank=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=stabgan&hide_border=true&background=00000000&ring=C6613F&fire=C6613F&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681&currStreakNum=e6edf3&sideNums=e6edf3" width="49%" />
 
 </div>
 
