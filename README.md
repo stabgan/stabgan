@@ -12,7 +12,7 @@ MTech Industrial AI · IIT Madras
 
 <br/>
 
-[![site](https://img.shields.io/badge/stabgan.com-141413?style=flat&logo=google-chrome&logoColor=white)](https://stabgan.com)
+[![site](https://img.shields.io/badge/stabgan.com-141413?style=flat&logo=google-chrome&logoColor=white)](https://stabgan.github.io)
 [![linkedin](https://img.shields.io/badge/linkedin-141413?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stabgan)
 [![huggingface](https://img.shields.io/badge/🤗_huggingface-141413?style=flat)](https://huggingface.co/stabgan)
 [![scholar](https://img.shields.io/badge/google_scholar-141413?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=3AG6T5QAAAAJ)
