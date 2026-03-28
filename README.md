@@ -1,16 +1,8 @@
 <div align="center">
 
-```
-stabgan
-```
+### Kaustabh Ganguly
 
-**Kaustabh Ganguly**
-
-Senior AI/ML Engineer · Gracenote (Nielsen)
-
-MTech Industrial AI · IIT Madras
-
-<br/>
+Senior AI/ML Engineer · Gracenote (Nielsen) · MTech Industrial AI · IIT Madras
 
 [![site](https://img.shields.io/badge/stabgan.com-141413?style=flat&logo=google-chrome&logoColor=white)](https://stabgan.github.io)
 [![linkedin](https://img.shields.io/badge/linkedin-141413?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stabgan)
@@ -22,34 +14,21 @@ MTech Industrial AI · IIT Madras
 
 ---
 
-I build systems that think.
+I build systems that think — production ML pipelines, fine-tuned language models, clinical AI, and data platforms at scale.
 
-Production ML pipelines. Fine-tuned language models. Clinical AI that predicts ICU outcomes. Data platforms serving 50+ downstream consumers at scale.
-
-Currently: embedding fine-tuning, neural machine translation with DSPy, prompt optimization, agentic workflows, LLM-as-a-Judge evaluation, and AWS Bedrock engineering.
+Currently into embedding fine-tuning, neural machine translation with DSPy, agentic workflows, LLM-as-a-Judge evaluation, and AWS Bedrock engineering.
 
 ---
 
-
-#### now
-
-```
-→  Embedding fine-tuning for content similarity & recommendation
-→  Neural machine translation with DSPy & prompt optimization
-→  Agentic workflows — LangChain / LangGraph
-→  LLM-as-a-Judge & golden dataset curation
-→  AWS Bedrock proxy & harness engineering
-```
-
-#### before
+#### experience
 
 ```
 2025 – now    Senior AI/ML Engineer        Gracenote (Nielsen)
 2023 – 2025   Data Architect & Scientist   TCS → J&J MedTech
 2022 – 2023   COE R&D Software Engineer    TCS → J&J
 2020 – 2022   Data Engineer → Lead         TCS → J&J Vision
-2022 – 2024   MTech Industrial AI          IIT Madras (8.66)
-2016 – 2020   BTech Information Tech       KGEC (8.15)
+2022 – 2024   MTech Industrial AI          IIT Madras
+2016 – 2020   BTech Information Tech       KGEC
 ```
 
 ---
@@ -58,13 +37,13 @@ Currently: embedding fine-tuning, neural machine translation with DSPy, prompt o
 
 | | |
 |:--|:--|
-| [openrouter-mcp-multimodal](https://github.com/stabgan/openrouter-mcp-multimodal) | MCP server for OpenRouter — text chat + image analysis via 200+ models `17⭐` |
-| [Recurrent-Neural-Networks](https://github.com/stabgan/Recurrent-Neural-Networks-to-predict-Google-Stock-Price) | Google stock price prediction using LSTMs `15⭐` |
-| [GANs-using-pyTorch](https://github.com/stabgan/GANs-using-pyTorch-from-Scratch) | Generative adversarial network from scratch in PyTorch `6⭐` |
-| [saaki](https://github.com/stabgan/saaki) | ICU mortality prediction for sepsis-AKI patients · MIMIC-IV · AUROC 0.80 |
+| [openrouter-mcp-multimodal](https://github.com/stabgan/openrouter-mcp-multimodal) | MCP server for OpenRouter — text + image via 200+ models |
+| [saaki](https://github.com/stabgan/saaki) | ICU mortality prediction for sepsis-AKI · MIMIC-IV · AUROC 0.80 |
 | [biogemma](https://github.com/stabgan/biogemma) | Gemma 3 1B fine-tuned on medical corpus for clinical NLP |
 | [icd10cm](https://github.com/stabgan/icd10cm) | ICD-10-CM browser — 70K+ diagnosis codes · MongoDB + Node.js |
-| [Gemma-3 Models](https://huggingface.co/stabgan) | 8 fine-tuned models + 10 datasets on HuggingFace |
+| [Recurrent-Neural-Networks](https://github.com/stabgan/Recurrent-Neural-Networks-to-predict-Google-Stock-Price) | Stock price prediction using LSTMs |
+| [GANs-using-pyTorch](https://github.com/stabgan/GANs-using-pyTorch-from-Scratch) | GAN from scratch in PyTorch |
+| [HuggingFace Models](https://huggingface.co/stabgan) | 8 fine-tuned models + 10 datasets |
 
 ---
 
@@ -82,32 +61,14 @@ Currently: embedding fine-tuning, neural machine translation with DSPy, prompt o
 
 ---
 
-#### tools i use
+#### tools
 
-**ml & ai** · `PyTorch` `Transformers` `scikit-learn` `LangChain` `LangGraph` `DSPy` `SHAP` `W&B`
-
-**data & cloud** · `AWS` `Bedrock` `Redshift` `PostgreSQL` `Snowflake` `Docker` `Terraform`
-
-**languages** · `Python` `SQL` `Java` `Go` `Bash` `R`
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=stabgan&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&icon_color=C6613F&count_private=true&hide_rank=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=stabgan&hide_border=true&background=00000000&ring=C6613F&fire=C6613F&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681&currStreakNum=e6edf3&sideNums=e6edf3" width="49%" />
-
-</div>
+`PyTorch` `Transformers` `scikit-learn` `LangChain` `LangGraph` `DSPy` `SHAP` `W&B` `AWS` `Bedrock` `Redshift` `PostgreSQL` `Snowflake` `Docker` `Terraform` `Python` `SQL` `Java` `Go` `Bash` `R`
 
 ---
 
 <div align="center">
 
 *Lead guitarist 🎸 · Gamer 🎮*
-
-```
-$ echo "let's build something together"
-→ kaustabhganguly@gmail.com
-```
 
 </div>
